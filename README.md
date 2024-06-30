@@ -29,11 +29,11 @@ Dedsec Vulnerability Scanner is a sophisticated tool for detecting vulnerabiliti
 
 ## Using
 ```
-   git clone https://github.com/yourusername/dedsec-vuln-scanner.git
-   cd DEDSEC-SCAN
-   pip install -r requirements.txt
-    chmod +x famous.scan.py
-  ./famous.scan.py 
+   git clone https://github.com/Azorwolldens/DEDSEC-SCAN.git
+cd dedsec-vuln-scanner
+pip install -r requirements.txt
+chmod +x dedsec.scan.py
+./dedsec.scan.py
 ```
 
 
@@ -59,11 +59,11 @@ Le Scanner de Vulnérabilité Dedsec est un outil sophistiqué pour détecter le
 
 ## Installation
 
-1. Clonez le dépôt :
+### 1. utilisé:
    ```bash
-   git clone https://github.com/yourusername/dedsec-vuln-scanner.git
-   cd dedsec-vuln-scanner
-   pip install -r requirements.txt
-   chmod +x famous.scan.py
-   ./famous.scan.py
-   
+   git clone https://github.com/Azorwolldens/DEDSEC-SCAN.git
+cd dedsec-vuln-scanner
+pip install -r requirements.txt
+chmod +x dedsec.scan.py
+./dedsec.scan.py
+   ```
