@@ -1,10 +1,10 @@
 # use script🔰✅
 ```
-git clone https://github.com/yourusername/dedsec-vuln-scanner.git
+git clone https://github.com/Azorwolldens/DEDSEC-SCAN.git
 cd dedsec-vuln-scanner
 pip install -r requirements.txt
-chmod +x famous.scan.py
-./famous.scan.py
+chmod +x DEDSEC.scan.py
+./DEDSEC.scan.py
 ```
 
 
