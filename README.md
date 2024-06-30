@@ -1,7 +1,7 @@
 # use script🔰✅
 ```
 git clone https://github.com/Azorwolldens/DEDSEC-SCAN.git
-cd dedsec-vuln-scanner
+cd DEDSEC-SCAN 
 pip install -r requirements.txt
 chmod +x dedsec.scan.py
 ./dedsec.scan.py
@@ -30,7 +30,7 @@ Dedsec Vulnerability Scanner is a sophisticated tool for detecting vulnerabiliti
 ## Using
 ```
    git clone https://github.com/Azorwolldens/DEDSEC-SCAN.git
-cd dedsec-vuln-scanner
+cd DEDSEC-SCAN 
 pip install -r requirements.txt
 chmod +x dedsec.scan.py
 ./dedsec.scan.py
@@ -62,7 +62,7 @@ Le Scanner de Vulnérabilité Dedsec est un outil sophistiqué pour détecter le
 ### 1. utilisé:
    ```bash
    git clone https://github.com/Azorwolldens/DEDSEC-SCAN.git
-cd dedsec-vuln-scanner
+cd DEDSEC-SCAN 
 pip install -r requirements.txt
 chmod +x dedsec.scan.py
 ./dedsec.scan.py
