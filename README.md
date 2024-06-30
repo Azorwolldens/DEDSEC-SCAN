@@ -19,9 +19,41 @@ Dedsec Vulnerability Scanner is a sophisticated tool for detecting vulnerabiliti
 
 ## Using
 
-   ```bash
    git clone https://github.com/yourusername/dedsec-vuln-scanner.git
    cd DEDSEC-SCAN
    pip install -r requirements.txt
     chmod +x famous.scan.py
-  ./famous.scan.py
+  ./famous.scan.py 
+
+
+
+#### Français
+
+# Scanner de Vulnérabilité Dedsec
+
+Le Scanner de Vulnérabilité Dedsec est un outil sophistiqué pour détecter les vulnérabilités sur un réseau en utilisant Nmap et ses scripts NSE. Il dispose d'un menu interactif, d'une bannière animée, et est conçu pour être utilisé avec Termux sur des appareils Android.
+
+## Fonctionnalités
+
+- Scanne pour les vulnérabilités courantes en utilisant le script `vuln` de Nmap.
+- Menu interactif pour une navigation facile avec texte animé.
+- Bannière animée avec un logo stylisé "A DEDSEC".
+- Possibilité d'obtenir l'adresse IP d'un domaine en utilisant `nslookup`.
+- Option pour mettre à jour le script directement depuis le menu.
+- Fonctionne de manière transparente avec Termux sur des appareils Android.
+
+## Prérequis
+
+- Termux installé sur votre appareil Android.
+- `nmap`, `python`, `dnsutils`, et `colorama` installés via le gestionnaire de paquets Termux.
+
+## Installation
+
+1. Clonez le dépôt :
+   ```bash
+   git clone https://github.com/yourusername/dedsec-vuln-scanner.git
+   cd dedsec-vuln-scanner
+   pip install -r requirements.txt
+   chmod +x famous.scan.py
+   ./famous.scan.py
+   
