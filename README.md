@@ -3,8 +3,8 @@
 git clone https://github.com/Azorwolldens/DEDSEC-SCAN.git
 cd dedsec-vuln-scanner
 pip install -r requirements.txt
-chmod +x DEDSEC.scan.py
-./DEDSEC.scan.py
+chmod +x dedsec.scan.py
+./dedsec.scan.py
 ```
 
 
