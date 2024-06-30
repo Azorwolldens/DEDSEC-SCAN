@@ -1,3 +1,13 @@
+# résumé
+```
+git clone https://github.com/yourusername/dedsec-vuln-scanner.git
+cd dedsec-vuln-scanner
+pip install -r requirements.txt
+chmod +x famous.scan.py
+./famous.scan.py
+```
+
+
 # DEDSEC-SCAN
 ## Dedsec Vulnerability Scanner
 
@@ -18,13 +28,13 @@ Dedsec Vulnerability Scanner is a sophisticated tool for detecting vulnerabiliti
 - `nmap`, `python`, `dnsutils`, and `colorama` installed via Termux package manager.
 
 ## Using
-
+```
    git clone https://github.com/yourusername/dedsec-vuln-scanner.git
    cd DEDSEC-SCAN
    pip install -r requirements.txt
     chmod +x famous.scan.py
   ./famous.scan.py 
-
+```
 
 
 #### Français
