@@ -1,4 +1,4 @@
-# résumé
+# use script🔰✅
 ```
 git clone https://github.com/yourusername/dedsec-vuln-scanner.git
 cd dedsec-vuln-scanner
